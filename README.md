@@ -16,6 +16,7 @@ Mods:
 1. BetterFps
 1. Bloodmoon
 1. Chisel
+1. CraftTweaker
 1. Enchiridion
 1. ExtremeReactors
 1. JustEnoughResources
