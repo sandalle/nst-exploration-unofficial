@@ -4,6 +4,8 @@
       "name": "Axe",
       "icon": "minecraft:diamond_axe",
       "toollist": [
+        "ic2:bronze_axe",
+        "ic2:chainsaw",
         "minecraft:diamond_axe",
         "minecraft:golden_axe",
         "minecraft:iron_axe",
@@ -15,6 +17,7 @@
         "harvestcraft:pammaple/0",
         "harvestcraft:pampaperbark/0",
         "ic2:leaves",
+        "ic2:rubber_wood",
         "minecraft:fence",
         "minecraft:leaves",
         "minecraft:leaves2",
@@ -26,6 +29,8 @@
       "name": "Hoe",
       "icon": "minecraft:diamond_hoe",
       "toollist": [
+        "ic2:bronze_hoe",
+        "ic2:electric_hoe",
         "minecraft:diamond_hoe",
         "minecraft:golden_hoe",
         "minecraft:iron_hoe",
@@ -44,6 +49,9 @@
       "name": "Pickaxe",
       "icon": "minecraft:diamond_pickaxe",
       "toollist": [
+        "ic2:bronze_pickaxe",
+        "ic2:diamond_drill",
+        "ic2:drill",
         "minecraft:diamond_pickaxe",
         "minecraft:golden_pickaxe",
         "minecraft:iron_pickaxe",
@@ -106,6 +114,9 @@
       "name": "Shovel",
       "icon": "minecraft:diamond_shovel",
       "toollist": [
+        "ic2:bronze_shovel",
+        "ic2:diamond_drill",
+        "ic2:drill",
         "minecraft:diamond_shovel",
         "minecraft:golden_shovel",
         "minecraft:iron_shovel",
