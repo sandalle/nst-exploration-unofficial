@@ -14,12 +14,20 @@ Mods:
 1. BetterBuildersWands
 1. BetterFoliage
 1. BetterFps
+1. BloodMagic
 1. Bloodmoon
 1. Chisel
+1. CodeChickenLib
 1. CraftTweaker
 1. Enchiridion
+1. Ender Storage
 1. ExtremeReactors
+1. FTB Lib
+1. FTB Utilities
+1. Guide API
+1. JurassiCraft 2
 1. JustEnoughResources
+1. LLibrary
 1. Morpheus
 1. OpenComputers
 1. PersistentBits
