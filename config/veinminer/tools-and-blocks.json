@@ -157,7 +157,26 @@
         "mysticalagriculture:inferium_ore/0",
         "mysticalagriculture:nether_inferium_ore/0",
         "mysticalagriculture:nether_prosperity_ore/0",
-        "mysticalagriculture:prosperity_ore/0"
+        "mysticalagriculture:prosperity_ore/0",
+        "simpleoregen:endcoalore/0",
+        "simpleoregen:endcopperore/0",
+        "simpleoregen:enddiamondore/0",
+        "simpleoregen:endemeraldore/0",
+        "simpleoregen:endgoldore/0",
+        "simpleoregen:endironore/0",
+        "simpleoregen:endlapisore/0",
+        "simpleoregen:endredstoneore/0",
+        "simpleoregen:endtinore/0",
+        "simpleoregen:nethercoalore/0",
+        "simpleoregen:nethercopperore/0",
+        "simpleoregen:netherdiamondore/0",
+        "simpleoregen:netheremeraldore/0",
+        "simpleoregen:nethergoldore/0",
+        "simpleoregen:netherironore/0",
+        "simpleoregen:netherlapisore/0",
+        "simpleoregen:netherquartzore/0",
+        "simpleoregen:netherredstoneore/0",
+        "simpleoregen:nethertinore/0"
       ]
     },
     "shears": {

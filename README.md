@@ -19,6 +19,7 @@ Mods:
 1. Chisel
 1. CodeChickenLib
 1. CraftTweaker
+1. Dense Ores
 1. Enchiridion
 1. Ender Storage
 1. ExtremeReactors
@@ -35,6 +36,7 @@ Mods:
 1. Quark
 1. QuickLeafDecay
 1. RoguelikeDungeons
+1. Simple Ore Generation
 1. UniDict
 1. VeinMiner
 1. WanionLib
