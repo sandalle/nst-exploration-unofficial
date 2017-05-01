@@ -33,7 +33,8 @@
         "minecraft:golden_axe",
         "minecraft:iron_axe",
         "minecraft:stone_axe",
-        "minecraft:wooden_axe"
+        "minecraft:wooden_axe",
+        "psi:psimetal_axe"
       ],
       "blocklist": [
         "botania:livingwood",
@@ -121,7 +122,8 @@
         "minecraft:golden_pickaxe",
         "minecraft:iron_pickaxe",
         "minecraft:stone_pickaxe",
-        "minecraft:wooden_pickaxe"
+        "minecraft:wooden_pickaxe",
+        "psi:psimetal_pickaxe"
       ],
       "blocklist": [
         "actuallyadditions:block_misc/3",
@@ -244,7 +246,8 @@
         "minecraft:golden_shovel",
         "minecraft:iron_shovel",
         "minecraft:stone_shovel",
-        "minecraft:wooden_shovel"
+        "minecraft:wooden_shovel",
+        "psi:psimetal_shovel"
       ],
       "blocklist": [
         "minecraft:clay",
