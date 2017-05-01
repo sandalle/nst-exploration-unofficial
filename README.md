@@ -12,7 +12,6 @@ Mods:
 1. BedBugs
 1. BetterAchievements
 1. BetterBuildersWands
-1. BetterFoliage
 1. BetterFps
 1. BloodMagic
 1. Bloodmoon
