@@ -5,3 +5,7 @@ Session.vim
 .netrwhist
 *~
 .*DS_Store
+
+# Files we don't want to track
+config/eirairc/local.cfg
+config/eirairc/servers.json
