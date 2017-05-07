@@ -82,6 +82,8 @@ This branch, 'exploration', is for Minecraft 1.11.
 1. [Quick Leaf Decay (by Lumien)](https://minecraft.curseforge.com/projects/quick-leaf-decay)
 1. [Recurrent Complex (by Ivorius)](https://minecraft.curseforge.com/projects/recurrent-complex)
 1. [Refined Storage (by raoulvdberge)](https://minecraft.curseforge.com/mc-mods/243076)
+   * Using [Lightweight Mode](http://minecraft-recurrent-complex.wikia.com/wiki/Using_Recurrent_Complex_as_a_Utility#Lightweight_Mode)
+   * ```lightweightMode=true```
 1. [RFTools (by McJty)](https://minecraft.curseforge.com/mc-mods/224641)
 1. [RFTools Control (by McJty)](https://minecraft.curseforge.com/projects/rftools-control)
 1. [RFTools Dimensions (by McJty)](https://minecraft.curseforge.com/mc-mods/240950)
