@@ -80,6 +80,7 @@ This branch, 'exploration', is for Minecraft 1.11.
    * Use the following in server.properties (or selected via GUI) to create a world with ["realistic" terrain](https://twitter.com/Vazkii/status/744293874336735234)
    * ```level-type="quark_realistic"```
 1. [Quick Leaf Decay (by Lumien)](https://minecraft.curseforge.com/projects/quick-leaf-decay)
+1. [Recurrent Complex (by Ivorius)](https://minecraft.curseforge.com/projects/recurrent-complex)
 1. [Refined Storage (by raoulvdberge)](https://minecraft.curseforge.com/mc-mods/243076)
 1. [RFTools (by McJty)](https://minecraft.curseforge.com/mc-mods/224641)
 1. [RFTools Control (by McJty)](https://minecraft.curseforge.com/projects/rftools-control)
