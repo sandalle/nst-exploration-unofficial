@@ -77,6 +77,7 @@ This branch, 'exploration', is for Minecraft 1.11.
 1. [Persistent Bits (by oitsjustjose)](https://minecraft.curseforge.com/projects/persistent-bits)
 1. [Progenitor (by Arkan)](https://minecraft.curseforge.com/projects/progenitor)
 1. [Psi (by Vazkii)](https://minecraft.curseforge.com/mc-mods/241665)
+1. [Reborn Core (by modmuss50)](https://minecraft.curseforge.com/projects/reborncore)
 1. [Quark (by Vazkii)](https://minecraft.curseforge.com/mc-mods/243121)
    * Use the following in server.properties (or selected via GUI) to create a world with ["realistic" terrain](https://twitter.com/Vazkii/status/744293874336735234)
    * ```level-type="quark_realistic"```
@@ -92,6 +93,7 @@ This branch, 'exploration', is for Minecraft 1.11.
 1. [Roots (by elucent)](https://minecraft.curseforge.com/projects/roots)
 1. [Simple Ore Generation (by Rohzek)](https://minecraft.curseforge.com/projects/simple-ore-generation)
 1. [Solar Flux Reborn (by MrDimkas_Studio)](https://minecraft.curseforge.com/projects/solar-flux-reborn)
+1. [Steve's Carts Reborn (by modmuss50)](https://minecraft.curseforge.com/projects/steves-carts-reborn)
 1. [The One Probe (by McJty)](https://minecraft.curseforge.com/projects/the-one-probe)
 1. [TOP Addons by DrMathiasDJ)](https://minecraft.curseforge.com/projects/top-addons)
 1. [UniDict (by WanionCane)](https://minecraft.curseforge.com/projects/unidict)
