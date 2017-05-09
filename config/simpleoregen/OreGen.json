@@ -4,10 +4,10 @@
       {
         "ore": "SurfaceCoalOre",
         "minY": 0,
-        "maxY": 132,
+        "maxY": 213,
         "rarity": 24,
-        "veinMinimum": 2,
-        "veinMultiplier": 17,
+        "veinMinimum": 6,
+        "veinMultiplier": 31,
         "disableOre": false
       },
       {
@@ -205,29 +205,29 @@
       }
     ]
   ],
-  "forestry": [
-    {
-      "ore": "ApatiteOre",
-      "minY": 64,
-      "maxY": 256,
-      "rarity": 24,
-      "veinMinimum": 5,
-      "veinMultiplier": 7,
-      "disableOre": false
-    },
+  "neutral": [
     {
       "ore": "SurfaceCopperOre",
-      "minY": 0,
-      "maxY": 132,
-      "rarity": 20,
+      "minY": 10,
+      "maxY": 256,
+      "rarity": 30,
       "veinMinimum": 5,
       "veinMultiplier": 19,
       "disableOre": false
     },
     {
       "ore": "SurfaceTinOre",
-      "minY": 0,
-      "maxY": 132,
+      "minY": 20,
+      "maxY": 256,
+      "rarity": 72,
+      "veinMinimum": 3,
+      "veinMultiplier": 19,
+      "disableOre": false
+    },
+    {
+      "ore": "SurfaceLeadOre",
+      "minY": 16,
+      "maxY": 60,
       "rarity": 20,
       "veinMinimum": 5,
       "veinMultiplier": 19,
@@ -246,6 +246,15 @@
       "ore": "NetherTinOre",
       "minY": 0,
       "maxY": 126,
+      "rarity": 72,
+      "veinMinimum": 5,
+      "veinMultiplier": 19,
+      "disableOre": false
+    },
+    {
+      "ore": "NetherLeadOre",
+      "minY": 0,
+      "maxY": 126,
       "rarity": 30,
       "veinMinimum": 5,
       "veinMultiplier": 19,
@@ -255,18 +264,67 @@
       "ore": "EndCopperOre",
       "minY": 10,
       "maxY": 60,
-      "rarity": 8,
-      "veinMinimum": 7,
-      "veinMultiplier": 7,
+      "rarity": 30,
+      "veinMinimum": 5,
+      "veinMultiplier": 17,
       "disableOre": false
     },
     {
       "ore": "EndTinOre",
       "minY": 10,
       "maxY": 60,
-      "rarity": 8,
+      "rarity": 48,
       "veinMinimum": 7,
-      "veinMultiplier": 7,
+      "veinMultiplier": 10,
+      "disableOre": false
+    },
+    {
+      "ore": "EndLeadOre",
+      "minY": 10,
+      "maxY": 60,
+      "rarity": 30,
+      "veinMinimum": 4,
+      "veinMultiplier": 9,
+      "disableOre": false
+    }
+  ],
+  "forestry": [
+    {
+      "ore": "ApatiteOre",
+      "minY": 64,
+      "maxY": 256,
+      "rarity": 24,
+      "veinMinimum": 7,
+      "veinMultiplier": 11,
+      "disableOre": false
+    }
+  ],
+  "IC2": [
+    {
+      "ore": "SurfaceUraniumOre",
+      "minY": 0,
+      "maxY": 60,
+      "rarity": 4,
+      "veinMinimum": 4,
+      "veinMultiplier": 8,
+      "disableOre": false
+    },
+    {
+      "ore": "NetherUraniumOre",
+      "minY": 0,
+      "maxY": 126,
+      "rarity": 6,
+      "veinMinimum": 4,
+      "veinMultiplier": 8,
+      "disableOre": false
+    },
+    {
+      "ore": "EndUraniumOre",
+      "minY": 10,
+      "maxY": 60,
+      "rarity": 6,
+      "veinMinimum": 4,
+      "veinMultiplier": 8,
       "disableOre": false
     }
   ]
