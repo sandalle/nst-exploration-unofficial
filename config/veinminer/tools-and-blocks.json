@@ -176,8 +176,10 @@
         "simpleoregen:endgoldore/0",
         "simpleoregen:endironore/0",
         "simpleoregen:endlapisore/0",
+        "simpleoregen:endleadore",
         "simpleoregen:endredstoneore/0",
         "simpleoregen:endtinore/0",
+        "simpleoregen:enduraniumore",
         "simpleoregen:nethercoalore/0",
         "simpleoregen:nethercopperore/0",
         "simpleoregen:netherdiamondore/0",
@@ -185,9 +187,11 @@
         "simpleoregen:nethergoldore/0",
         "simpleoregen:netherironore/0",
         "simpleoregen:netherlapisore/0",
+        "simpleoregen:netherleadore",
         "simpleoregen:netherquartzore/0",
         "simpleoregen:netherredstoneore/0",
-        "simpleoregen:nethertinore/0"
+        "simpleoregen:nethertinore/0",
+        "simpleoregen:netheruraniumore"
       ]
     },
     "shears": {
