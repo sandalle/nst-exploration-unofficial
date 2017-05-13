@@ -80,11 +80,11 @@ This branch, 'exploration', is for Minecraft 1.11.
 1. [Persistent Bits (by oitsjustjose)](https://minecraft.curseforge.com/projects/persistent-bits)
 1. [Progenitor (by Arkan)](https://minecraft.curseforge.com/projects/progenitor)
 1. [Psi (by Vazkii)](https://minecraft.curseforge.com/mc-mods/241665)
-1. [Reborn Core (by modmuss50)](https://minecraft.curseforge.com/projects/reborncore)
 1. [Quark (by Vazkii)](https://minecraft.curseforge.com/mc-mods/243121)
    * Use the following in server.properties (or selected via GUI) to create a world with ["realistic" terrain](https://twitter.com/Vazkii/status/744293874336735234)
    * ```level-type="quark_realistic"```
 1. [Quick Leaf Decay (by Lumien)](https://minecraft.curseforge.com/projects/quick-leaf-decay)
+1. [Reborn Core (by modmuss50)](https://minecraft.curseforge.com/projects/reborncore)
 1. [Recurrent Complex (by Ivorius)](https://minecraft.curseforge.com/projects/recurrent-complex)
 1. [Refined Storage (by raoulvdberge)](https://minecraft.curseforge.com/mc-mods/243076)
    * Using [Lightweight Mode](http://minecraft-recurrent-complex.wikia.com/wiki/Using_Recurrent_Complex_as_a_Utility#Lightweight_Mode)
