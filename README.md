@@ -72,6 +72,7 @@ This branch, 'exploration', is for Minecraft 1.11.
 1. [MrCrayfish's Furniture Mod (by Mr_Crayfish)](https://minecraft.curseforge.com/projects/mrcrayfish-furniture-mod)
 1. [Mystical Agriculture (by BlakeBr0)](https://minecraft.curseforge.com/mc-mods/246640)
 1. [NetherPortalFix (by BlayTheNinth)](https://minecraft.curseforge.com/mc-mods/241160)
+1. [Nuclear Craft (by tomdodd4598)](https://minecraft.curseforge.com/projects/nuclearcraft-mod)
 1. [OMLib (by Keridos and Poenjabiesous)](https://minecraft.curseforge.com/projects/omlib)
 1. [Open Modular Passive Defense (by Keridos and Poenjabiesous)](https://minecraft.curseforge.com/projects/open-modular-passive-defense)
 1. [Open Modular Turrets (by Keridos and Poenjabiesous)](https://minecraft.curseforge.com/projects/openmodularturrets)
