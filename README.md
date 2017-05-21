@@ -61,6 +61,7 @@ This branch, 'exploration', is for Minecraft 1.11.
 1. [Iron Chests (by progwml6)](https://minecraft.curseforge.com/mc-mods/228756)
 1. [JourneyMap (by techbrew)](https://minecraft.curseforge.com/mc-mods/32274)
 1. [JurassiCraft - 2.0 (by gegy)](https://minecraft.curseforge.com/mc-mods/226719)
+1. [Just Enough HarvestCraft (by mrAppleXZ)](https://minecraft.curseforge.com/projects/just-enough-harvestcraft)
 1. [Just Enough Items (JEI) (by mezz)](https://minecraft.curseforge.com/mc-mods/238222)
 1. [Just Enough Resources (JER) (by Way2muchnoise)](https://minecraft.curseforge.com/mc-mods/240630)
 1. [LLibrary (by iLexiconn)](https://minecraft.curseforge.com/mc-mods/243298)
