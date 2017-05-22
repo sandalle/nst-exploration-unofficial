@@ -26,6 +26,7 @@ This branch, 'exploration', is for Minecraft 1.11.
 1. [Actually Additions (by Ellpeck)](https://minecraft.curseforge.com/projects/actually-additions)
 1. [Actually Computers (by canitzp)](https://minecraft.curseforge.com/projects/actuallycomputers)
 1. [Advanced Generators (by bdew)](https://minecraft.curseforge.com/mc-mods/223622)
+1. [Advanced Rocketry (by zmaster587)](https://minecraft.curseforge.com/projects/advanced-rocketry)
 1. [AppleSkin (by squeek502)](https://minecraft.curseforge.com/mc-mods/248787)
 1. [AutoRegLib (by Vazkii)](https://minecraft.curseforge.com/mc-mods/250363)
 1. [Baubles (by azanor)](https://minecraft.curseforge.com/mc-mods/227083)
@@ -64,6 +65,7 @@ This branch, 'exploration', is for Minecraft 1.11.
 1. [Just Enough HarvestCraft (by mrAppleXZ)](https://minecraft.curseforge.com/projects/just-enough-harvestcraft)
 1. [Just Enough Items (JEI) (by mezz)](https://minecraft.curseforge.com/mc-mods/238222)
 1. [Just Enough Resources (JER) (by Way2muchnoise)](https://minecraft.curseforge.com/mc-mods/240630)
+1. [LibVulpes (by zmaster587)](https://minecraft.curseforge.com/projects/libvulpes)
 1. [LLibrary (by iLexiconn)](https://minecraft.curseforge.com/mc-mods/243298)
 1. [Login Shield (by Glasspelican)](https://minecraft.curseforge.com/mc-mods/233255)
 1. [MalisisBlocks (by Ordinastie)](https://minecraft.curseforge.com/projects/malisisblocks)
@@ -85,6 +87,7 @@ This branch, 'exploration', is for Minecraft 1.11.
 1. [Persistent Bits (by oitsjustjose)](https://minecraft.curseforge.com/projects/persistent-bits)
 1. [Progenitor (by Arkan)](https://minecraft.curseforge.com/projects/progenitor)
 1. [Psi (by Vazkii)](https://minecraft.curseforge.com/mc-mods/241665)
+1. [Quantum Storage (by Gigabit101)](https://minecraft.curseforge.com/projects/quantumstorage)
 1. [Quark (by Vazkii)](https://minecraft.curseforge.com/mc-mods/243121)
    * Use the following in server.properties (or selected via GUI) to create a world with ["realistic" terrain](https://twitter.com/Vazkii/status/744293874336735234)
    * ```level-type="quark_realistic"```
