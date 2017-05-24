@@ -205,7 +205,11 @@
         "simpleoregen:netherquartzore/0",
         "simpleoregen:netherredstoneore/0",
         "simpleoregen:nethertinore/0",
-        "simpleoregen:netheruraniumore"
+        "simpleoregen:netheruraniumore",
+        "simpleoregen:surfacecopperore",
+        "simpleoregen:surfaceleadore",
+        "simpleoregen:surfacetinore",
+        "simpleoregen:surfaceuraniumore"
       ]
     },
     "shears": {
