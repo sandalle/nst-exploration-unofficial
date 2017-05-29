@@ -54,7 +54,18 @@
         "minecraft:leaves2",
         "minecraft:log",
         "minecraft:log2",
-        "roots:logWildwood/0"
+        "natura:nether_leaves",
+        "natura:nether_leaves2",
+        "natura:nether_logs",
+        "natura:nether_logs2",
+        "natura:overworld_leaves",
+        "natura:overworld_leaves2",
+        "natura:overworld_logs",
+        "natura:overworld_logs2",
+        "natura:redwood_leaves",
+        "natura:redwood_logs",
+        "roots:logWildwood/0",
+        "tconstruct:slime_leaves"
       ]
     },
     "hoe": {
@@ -209,7 +220,9 @@
         "simpleoregen:surfacecopperore",
         "simpleoregen:surfaceleadore",
         "simpleoregen:surfacetinore",
-        "simpleoregen:surfaceuraniumore"
+        "simpleoregen:surfaceuraniumore",
+        "tconstruct:ore/0",
+        "tconstruct:ore/1"
       ]
     },
     "shears": {
@@ -229,7 +242,13 @@
         "minecraft:vine",
         "minecraft:web",
         "minecraft:wool",
-        "randomthings:spectreLeaf/0"
+        "natura:nether_leaves",
+        "natura:nether_leaves2",
+        "natura:overworld_leaves",
+        "natura:overworld_leaves2",
+        "natura:redwood_leaves",
+        "randomthings:spectreLeaf/0",
+        "tconstruct:slime_leaves"
       ]
     },
     "shovel": {
