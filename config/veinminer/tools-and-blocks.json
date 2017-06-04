@@ -34,7 +34,8 @@
         "minecraft:iron_axe",
         "minecraft:stone_axe",
         "minecraft:wooden_axe",
-        "psi:psimetal_axe"
+        "psi:psimetal_axe",
+        "tconstruct:hatchet"
       ],
       "blocklist": [
         "botania:livingwood",
@@ -88,7 +89,8 @@
         "minecraft:golden_hoe",
         "minecraft:iron_hoe",
         "minecraft:stone_hoe",
-        "minecraft:wooden_hoe"
+        "minecraft:wooden_hoe",
+        "tconstruct:mattock"
       ],
       "blocklist": [
         "minecraft:carrots",
@@ -134,7 +136,8 @@
         "minecraft:iron_pickaxe",
         "minecraft:stone_pickaxe",
         "minecraft:wooden_pickaxe",
-        "psi:psimetal_pickaxe"
+        "psi:psimetal_pickaxe",
+        "tconstruct:pickaxe"
       ],
       "blocklist": [
         "actuallyadditions:block_misc/3",
@@ -288,7 +291,9 @@
         "minecraft:iron_shovel",
         "minecraft:stone_shovel",
         "minecraft:wooden_shovel",
-        "psi:psimetal_shovel"
+        "psi:psimetal_shovel",
+        "tconstruct:mattock",
+        "tconstruct:shovel"
       ],
       "blocklist": [
         "minecraft:clay",
