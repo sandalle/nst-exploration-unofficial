@@ -33,7 +33,6 @@ This branch, 'exploration', is for Minecraft 1.11.
 1. [BdLib (by bdew)](https://minecraft.curseforge.com/mc-mods/70496)
 1. [BedBugs (by gr8pefish)](https://minecraft.curseforge.com/projects/bed-bugs)
 1. [Better Achievements (by Way2muchnoise)](https://minecraft.curseforge.com/mc-mods/235716)
-1. [Better BedrockGen (by Gigabit1011)](https://minecraft.curseforge.com/mc-mods/223275)
 1. [Better Builder's Wands (by Portablejim)](https://minecraft.curseforge.com/mc-mods/238403)
 1. [BetterFps (by Guichaguri)](https://minecraft.curseforge.com/mc-mods/229876)
 1. [Blood Magic (by WayOfTime)](https://mods.curse.com/mc-mods/minecraft/224791-blood-magic)
