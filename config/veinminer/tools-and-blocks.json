@@ -225,7 +225,21 @@
         "simpleoregen:surfacetinore",
         "simpleoregen:surfaceuraniumore",
         "tconstruct:ore/0",
-        "tconstruct:ore/1"
+        "tconstruct:ore/1",
+        "thermalfoundation:ore/0",
+        "thermalfoundation:ore/1",
+        "thermalfoundation:ore/2",
+        "thermalfoundation:ore/3",
+        "thermalfoundation:ore/4",
+        "thermalfoundation:ore/5",
+        "thermalfoundation:ore/6",
+        "thermalfoundation:ore/7",
+        "thermalfoundation:ore/8",
+        "thermalfoundation:ore_fluid/0",
+        "thermalfoundation:ore_fluid/1",
+        "thermalfoundation:ore_fluid/2",
+        "thermalfoundation:ore_fluid/3",
+        "thermalfoundation:ore_fluid/4"
       ]
     },
     "shears": {
