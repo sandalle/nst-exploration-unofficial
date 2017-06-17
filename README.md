@@ -11,7 +11,7 @@ This branch, 'exploration', is for Minecraft 1.11.
 
 # Forge
 
-[1.11.2-13.20.0.2314](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.11.2.html)
+[1.11.2-13.20.0.2315](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.11.2.html)
 
 # Sponge (Bukkit-like API)
 
@@ -45,6 +45,7 @@ This branch, 'exploration', is for Minecraft 1.11.
 1. [Compact Solars (by progwml6)](https://minecraft.curseforge.com/projects/compact-solars)
 1. [CompatLayer (by McJty)](https://minecraft.curseforge.com/projects/compatlayer)
 1. [Cooking for Blockheads (by BlayTheNinth)](https://minecraft.curseforge.com/projects/cooking-for-blockheads)
+1. [Connected Textures Mod (by tterrag1098)](https://minecraft.curseforge.com/projects/ctm)
 1. [CraftTweaker (by jaredlll08)](https://minecraft.curseforge.com/mc-mods/239197)
 1. [Dense Ores (by RWTema)](https://minecraft.curseforge.com/projects/dense-ores)
 1. [Ding (by iChun)](https://minecraft.curseforge.com/mc-mods/231275)
