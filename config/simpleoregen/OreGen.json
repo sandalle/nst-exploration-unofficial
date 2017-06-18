@@ -213,7 +213,7 @@
       "rarity": 30,
       "veinMinimum": 5,
       "veinMultiplier": 19,
-      "disableOre": false
+      "disableOre": true
     },
     {
       "ore": "SurfaceTinOre",
@@ -222,7 +222,7 @@
       "rarity": 72,
       "veinMinimum": 3,
       "veinMultiplier": 19,
-      "disableOre": false
+      "disableOre": true
     },
     {
       "ore": "SurfaceLeadOre",
@@ -231,7 +231,7 @@
       "rarity": 20,
       "veinMinimum": 5,
       "veinMultiplier": 19,
-      "disableOre": false
+      "disableOre": true
     },
     {
       "ore": "NetherCopperOre",
