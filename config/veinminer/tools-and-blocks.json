@@ -50,6 +50,8 @@
         "jurassicraft:ginkgo_leaves/0",
         "jurassicraft:ginkgo_log/0",
         "jurassicraft:ginkgo_log_petrified/0",
+        "lostthaumaturgy:silverwood_leaves/0",
+        "lostthaumaturgy:silverwood_log/0",
         "minecraft:fence",
         "minecraft:leaves",
         "minecraft:leaves2",
@@ -66,8 +68,6 @@
         "natura:redwood_leaves",
         "natura:redwood_logs",
         "roots:logWildwood/0",
-        "lostthaumaturgy:silverwood_leaves/0",
-        "lostthaumaturgy:silverwood_log/0",
         "tconstruct:slime_leaves"
       ]
     },

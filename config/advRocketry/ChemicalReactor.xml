@@ -68,6 +68,15 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
+			<itemStack>natura:imp_armor_boots</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>natura:imp_armor_boots</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
 			<itemStack>mysticalagriculture:supremium_leggings</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
@@ -135,6 +144,15 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
+			<itemStack>thermalfoundation:armor.boots_bronze</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.boots_bronze</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
 			<itemStack>harvestcraft:hardenedleatherbootsitem</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
@@ -190,6 +208,15 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
+			<itemStack>thermalfoundation:armor.legs_silver</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.legs_silver</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
 			<itemStack>mysticalagriculture:supremium_helmet_fire</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
@@ -223,6 +250,15 @@
 		</input>
 		<output>
 			<itemStack>actuallyadditions:item_boots_obsidian</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>lostthaumaturgy:void_boots</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>lostthaumaturgy:void_boots</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -273,6 +309,16 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
+			<itemStack>thermalfoundation:armor.plate_nickel</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.plate_nickel</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
 			<itemStack>actuallyadditions:item_engineer_goggles</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
@@ -296,6 +342,15 @@
 		</input>
 		<output>
 			<itemStack>minecraft:iron_leggings</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.legs_nickel</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.legs_nickel</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -332,6 +387,15 @@
 		</input>
 		<output>
 			<itemStack>ic2:nightvision_goggles</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.helmet_invar</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.helmet_invar</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -360,6 +424,15 @@
 		</input>
 		<output>
 			<itemStack>bloodmagic:itemlivingarmourhelmet</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.helmet_lead</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.helmet_lead</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -410,12 +483,40 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
+			<itemStack>lostthaumaturgy:goggles_revealing</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>lostthaumaturgy:goggles_revealing</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>tconstruct:piggybackpack</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>tconstruct:piggybackpack</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
 			<itemStack>botania:manasteelchest</itemStack>
 			<oreDict>gemDiamond</oreDict>
 			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
 		</input>
 		<output>
 			<itemStack>botania:manasteelchest</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.legs_lead</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.legs_lead</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -438,12 +539,30 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
+			<itemStack>thermalfoundation:armor.legs_invar</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.legs_invar</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
 			<itemStack>mysticalagriculture:supremium_chestplate_resistance</itemStack>
 			<oreDict>gemDiamond</oreDict>
 			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
 		</input>
 		<output>
 			<itemStack>mysticalagriculture:supremium_chestplate_resistance</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.helmet_tin</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.helmet_tin</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -476,6 +595,35 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
+			<itemStack>thermalfoundation:armor.plate_platinum</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.plate_platinum</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.plate_lead</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.plate_lead</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.boots_lead</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.boots_lead</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
 			<itemStack>mysticalagriculture:inferium_boots</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
@@ -490,6 +638,15 @@
 		</input>
 		<output>
 			<itemStack>actuallyadditions:item_helm_crystal_green</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.legs_copper</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.legs_copper</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -522,6 +679,15 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
+			<itemStack>thermalfoundation:armor.helmet_bronze</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.helmet_bronze</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
 			<itemStack>psi:psimetal_exosuit_leggings</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
@@ -537,6 +703,15 @@
 		</input>
 		<output>
 			<itemStack>minecraft:iron_chestplate</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.legs_tin</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.legs_tin</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -614,11 +789,68 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
+			<itemStack>thermalfoundation:armor.plate_tin</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.plate_tin</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.plate_bronze</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.plate_bronze</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>natura:imp_armor_chestplate</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>natura:imp_armor_chestplate</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.boots_electrum</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.boots_electrum</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
 			<itemStack>actuallyadditions:item_pants_crystal_red</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
 		<output>
 			<itemStack>actuallyadditions:item_pants_crystal_red</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.boots_invar</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.boots_invar</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>lostthaumaturgy:thaumium_leggings</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>lostthaumaturgy:thaumium_leggings</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -629,6 +861,15 @@
 		</input>
 		<output>
 			<itemStack>ic2:alloy_chestplate</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.helmet_electrum</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.helmet_electrum</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -745,6 +986,15 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
+			<itemStack>thermalfoundation:armor.boots_silver</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.boots_silver</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
 			<itemStack>mysticalagriculture:inferium_leggings</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
@@ -773,6 +1023,15 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
+			<itemStack>lostthaumaturgy:thaumium_helmet</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>lostthaumaturgy:thaumium_helmet</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
 			<itemStack>bloodmagic:itempacksacrifice</itemStack>
 			<oreDict>gemDiamond</oreDict>
 			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
@@ -797,6 +1056,15 @@
 		</input>
 		<output>
 			<itemStack>botania:manasteelhelmreveal</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.legs_platinum</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.legs_platinum</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -1060,6 +1328,15 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
+			<itemStack>natura:imp_armor_helmet</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>natura:imp_armor_helmet</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
 			<itemStack>bloodmagic:itempackselfsacrifice</itemStack>
 			<oreDict>gemDiamond</oreDict>
 			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
@@ -1171,6 +1448,25 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
+			<itemStack>lostthaumaturgy:void_helmet</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>lostthaumaturgy:void_helmet</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>lostthaumaturgy:void_chestplate</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>lostthaumaturgy:void_chestplate</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
 			<itemStack>harvestcraft:hardenedleatherhelmitem</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
@@ -1199,11 +1495,39 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
+			<itemStack>thermalfoundation:armor.boots_copper</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.boots_copper</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>lostthaumaturgy:void_leggings</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>lostthaumaturgy:void_leggings</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
 			<itemStack>mysticalagriculture:supremium_boots_absorption</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
 		<output>
 			<itemStack>mysticalagriculture:supremium_boots_absorption</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>lostthaumaturgy:thaumium_chestplate</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>lostthaumaturgy:thaumium_chestplate</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -1255,6 +1579,15 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
+			<itemStack>thermalfoundation:armor.legs_bronze</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.legs_bronze</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
 			<itemStack>botania:elementiumchest</itemStack>
 			<oreDict>gemDiamond</oreDict>
 			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
@@ -1271,6 +1604,15 @@
 		</input>
 		<output>
 			<itemStack>ic2:lappack</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.helmet_silver</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.helmet_silver</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -1320,6 +1662,25 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
+			<itemStack>tconstruct:slime_boots</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>tconstruct:slime_boots</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.plate_invar</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.plate_invar</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
 			<itemStack>embers:ashen_cloak_head</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
@@ -1339,6 +1700,16 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
+			<itemStack>thermalfoundation:armor.plate_silver</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.plate_silver</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
 			<itemStack>minecraft:leather_boots</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
@@ -1357,6 +1728,16 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
+			<itemStack>thermalfoundation:armor.plate_electrum</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.plate_electrum</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
 			<itemStack>minecraft:golden_boots</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
@@ -1371,6 +1752,15 @@
 		</input>
 		<output>
 			<itemStack>psi:psimetal_exosuit_helmet</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.helmet_nickel</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.helmet_nickel</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -1469,6 +1859,15 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
+			<itemStack>redstonearsenal:armor.helmet_flux</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>redstonearsenal:armor.helmet_flux</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
 			<itemStack>minecraft:diamond_leggings</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
@@ -1510,6 +1909,15 @@
 		</input>
 		<output>
 			<itemStack>botania:elementiumhelm</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.boots_nickel</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.boots_nickel</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -1547,6 +1955,15 @@
 		</input>
 		<output>
 			<itemStack>mysticalagriculture:prudentium_boots</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>redstonearsenal:armor.legs_flux</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>redstonearsenal:armor.legs_flux</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -1635,6 +2052,34 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
+			<itemStack>redstonearsenal:armor.plate_flux</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>redstonearsenal:armor.plate_flux</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.boots_platinum</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.boots_platinum</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>redstonearsenal:armor.boots_flux</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>redstonearsenal:armor.boots_flux</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
 			<itemStack>actuallyadditions:item_helm_crystal_red</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
@@ -1644,11 +2089,47 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
+			<itemStack>lostthaumaturgy:thaumium_boots</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>lostthaumaturgy:thaumium_boots</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
 			<itemStack>mysticalagriculture:inferium_helmet</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
 		<output>
 			<itemStack>mysticalagriculture:inferium_helmet</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.helmet_copper</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.helmet_copper</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.helmet_platinum</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.helmet_platinum</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>natura:imp_armor_leggings</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>natura:imp_armor_leggings</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
@@ -1711,6 +2192,16 @@
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
 		<input>
+			<itemStack>thermalfoundation:armor.plate_copper</itemStack>
+			<oreDict>gemDiamond</oreDict>
+			<itemStack>advancedrocketry:pressuretank 1 3</itemStack>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.plate_copper</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
 			<itemStack>bloodmagic:itemsentientarmourboots</itemStack>
 			<oreDict>gemDiamond</oreDict>
 		</input>
@@ -1725,6 +2216,24 @@
 		</input>
 		<output>
 			<itemStack>theoneprobe:gold_helmet_probe</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.boots_tin</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.boots_tin</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="10">
+		<input>
+			<itemStack>thermalfoundation:armor.legs_electrum</itemStack>
+			<oreDict>gemDiamond</oreDict>
+		</input>
+		<output>
+			<itemStack>thermalfoundation:armor.legs_electrum</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="100" power ="10">
