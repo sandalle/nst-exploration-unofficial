@@ -114,7 +114,6 @@ This branch, 'exploration', is for Minecraft 1.11.
 1. [Thermal Dynamics (by TeamCoFH)](https://minecraft.curseforge.com/projects/thermal-dynamics)
 1. [Thermal Expansion (by TeamCoFH)](https://minecraft.curseforge.com/projects/thermalexpansion)
 1. [Thermal Foundation (by TeamCoFH)](https://minecraft.curseforge.com/projects/thermal-foundation)
-1. [Tick Profiler (by minimallycorrect)](https://minecraft.curseforge.com/projects/tickprofiler)
 1. [Tinker's Construct (by mDiyo)](https://minecraft.curseforge.com/projects/tinkers-construct)
 1. [Tinker's Tool Leveling (by boni)](https://minecraft.curseforge.com/projects/tinkers-tool-leveling)
 1. [TOP Addons by DrMathiasDJ)](https://minecraft.curseforge.com/projects/top-addons)
