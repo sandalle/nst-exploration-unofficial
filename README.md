@@ -48,7 +48,6 @@ This branch, 'exploration', is for Minecraft 1.11.
 1. [Connected Textures Mod (by tterrag1098)](https://minecraft.curseforge.com/projects/ctm)
 1. [CraftTweaker (by jaredlll08)](https://minecraft.curseforge.com/mc-mods/239197)
 1. [Dense Ores (by RWTema)](https://minecraft.curseforge.com/projects/dense-ores)
-1. [Ding (by iChun)](https://minecraft.curseforge.com/mc-mods/231275)
 1. [Dynamic Surroundings (by OreCruncher)](https://minecraft.curseforge.com/projects/dynamic-surroundings)
 1. [Embers (by elucent)](https://minecraft.curseforge.com/projects/embers)
 1. [Enchiridion (by joshiejack)](https://minecraft.curseforge.com/mc-mods/76612)
