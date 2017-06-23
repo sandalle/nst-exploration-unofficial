@@ -107,6 +107,7 @@ This branch, 'exploration', is for Minecraft 1.11.
 1. [RFTools Dimensions (by McJty)](https://minecraft.curseforge.com/mc-mods/240950)
 1. [Roguelike Dungeons (by Greymerk)](https://minecraft.curseforge.com/mc-mods/221585)
 1. [Roots (by elucent)](https://minecraft.curseforge.com/projects/roots)
+1. [Simple Harvest (by TehNut)](https://minecraft.curseforge.com/projects/simpleharvest)
 1. [Simple Ore Generation (by Rohzek)](https://minecraft.curseforge.com/projects/simple-ore-generation)
 1. [Solar Flux Reborn (by MrDimkas_Studio)](https://minecraft.curseforge.com/projects/solar-flux-reborn)
 1. [Steve's Carts Reborn (by modmuss50)](https://minecraft.curseforge.com/projects/steves-carts-reborn)
