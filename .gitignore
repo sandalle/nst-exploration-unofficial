@@ -9,3 +9,5 @@ Session.vim
 # Files we don't want to track
 config/eirairc/local.cfg
 config/eirairc/servers.json
+config/purpleirc/displayName.cache
+config/purpleirc/uuid.cache
