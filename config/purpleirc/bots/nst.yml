@@ -13,7 +13,7 @@ bind: ''
 max-line-length: 440
 charset: ''
 show-motd: false
-autoconnect: true
+autoconnect: false
 password: ''
 ident-password: ''
 command-prefix: .
