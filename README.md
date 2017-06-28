@@ -79,6 +79,7 @@ This branch, 'exploration', is for Minecraft 1.11.
 1. [Metamorph (by horsewithnoname)](https://minecraft.curseforge.com/projects/metamorph)
 1. [Morpheus (by Quetzi)](https://minecraft.curseforge.com/mc-mods/69118)
 1. [MrCrayfish's Furniture Mod (by Mr_Crayfish)](https://minecraft.curseforge.com/projects/mrcrayfish-furniture-mod)
+1. [Mystical Agradditions (by BlakeBr0)](https://minecraft.curseforge.com/projects/mystical-agradditions)
 1. [Mystical Agriculture (by BlakeBr0)](https://minecraft.curseforge.com/mc-mods/246640)
 1. [Natura (by mDiyo)](https://minecraft.curseforge.com/projects/natura)
 1. [NetherPortalFix (by BlayTheNinth)](https://minecraft.curseforge.com/mc-mods/241160)
