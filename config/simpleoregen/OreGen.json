@@ -349,7 +349,7 @@
       "veinMinimum": 6,
       "veinMultiplier": 20,
       "miningLevel": "STONE",
-      "disableOre": false
+      "disableOre": true
     },
     {
       "ore": "SurfaceNickelOre",
@@ -359,7 +359,7 @@
       "veinMinimum": 9,
       "veinMultiplier": 9,
       "miningLevel": "STONE",
-      "disableOre": false
+      "disableOre": true
     },
     {
       "ore": "SurfaceSilverOre",
@@ -369,7 +369,7 @@
       "veinMinimum": 3,
       "veinMultiplier": 6,
       "miningLevel": "IRON",
-      "disableOre": false
+      "disableOre": true
     },
     {
       "ore": "NetherBauxiteOre",
