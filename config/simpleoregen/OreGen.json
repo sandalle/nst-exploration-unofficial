@@ -213,6 +213,7 @@
       "rarity": 30,
       "veinMinimum": 5,
       "veinMultiplier": 19,
+      "miningLevel": "STONE",
       "disableOre": true
     },
     {
@@ -222,6 +223,7 @@
       "rarity": 72,
       "veinMinimum": 3,
       "veinMultiplier": 19,
+      "miningLevel": "STONE",
       "disableOre": true
     },
     {
@@ -231,6 +233,7 @@
       "rarity": 20,
       "veinMinimum": 5,
       "veinMultiplier": 19,
+      "miningLevel": "IRON",
       "disableOre": true
     },
     {
@@ -240,6 +243,7 @@
       "rarity": 30,
       "veinMinimum": 5,
       "veinMultiplier": 19,
+      "miningLevel": "STONE",
       "disableOre": false
     },
     {
@@ -249,6 +253,7 @@
       "rarity": 72,
       "veinMinimum": 5,
       "veinMultiplier": 19,
+      "miningLevel": "STONE",
       "disableOre": false
     },
     {
@@ -258,6 +263,7 @@
       "rarity": 30,
       "veinMinimum": 5,
       "veinMultiplier": 19,
+      "miningLevel": "IRON",
       "disableOre": false
     },
     {
@@ -267,6 +273,7 @@
       "rarity": 30,
       "veinMinimum": 5,
       "veinMultiplier": 17,
+      "miningLevel": "STONE",
       "disableOre": false
     },
     {
@@ -276,6 +283,7 @@
       "rarity": 48,
       "veinMinimum": 7,
       "veinMultiplier": 10,
+      "miningLevel": "STONE",
       "disableOre": false
     },
     {
@@ -285,6 +293,7 @@
       "rarity": 30,
       "veinMinimum": 4,
       "veinMultiplier": 9,
+      "miningLevel": "IRON",
       "disableOre": false
     }
   ],
@@ -307,6 +316,7 @@
       "rarity": 4,
       "veinMinimum": 4,
       "veinMultiplier": 8,
+      "miningLevel": "IRON",
       "disableOre": false
     },
     {
@@ -316,6 +326,7 @@
       "rarity": 6,
       "veinMinimum": 4,
       "veinMultiplier": 8,
+      "miningLevel": "IRON",
       "disableOre": false
     },
     {
@@ -325,6 +336,99 @@
       "rarity": 6,
       "veinMinimum": 4,
       "veinMultiplier": 8,
+      "miningLevel": "IRON",
+      "disableOre": false
+    }
+  ],
+  "IE": [
+    {
+      "ore": "SurfaceBauxiteOre",
+      "minY": 40,
+      "maxY": 85,
+      "rarity": 48,
+      "veinMinimum": 6,
+      "veinMultiplier": 20,
+      "miningLevel": "STONE",
+      "disableOre": false
+    },
+    {
+      "ore": "SurfaceNickelOre",
+      "minY": 8,
+      "maxY": 24,
+      "rarity": 6,
+      "veinMinimum": 9,
+      "veinMultiplier": 9,
+      "miningLevel": "STONE",
+      "disableOre": false
+    },
+    {
+      "ore": "SurfaceSilverOre",
+      "minY": 8,
+      "maxY": 40,
+      "rarity": 4,
+      "veinMinimum": 3,
+      "veinMultiplier": 6,
+      "miningLevel": "IRON",
+      "disableOre": false
+    },
+    {
+      "ore": "NetherBauxiteOre",
+      "minY": 0,
+      "maxY": 126,
+      "rarity": 48,
+      "veinMinimum": 6,
+      "veinMultiplier": 20,
+      "miningLevel": "STONE",
+      "disableOre": false
+    },
+    {
+      "ore": "NetherNickelOre",
+      "minY": 0,
+      "maxY": 126,
+      "rarity": 6,
+      "veinMinimum": 9,
+      "veinMultiplier": 9,
+      "miningLevel": "STONE",
+      "disableOre": false
+    },
+    {
+      "ore": "NetherSilverOre",
+      "minY": 0,
+      "maxY": 126,
+      "rarity": 4,
+      "veinMinimum": 3,
+      "veinMultiplier": 6,
+      "miningLevel": "IRON",
+      "disableOre": false
+    },
+    {
+      "ore": "EndBauxiteOre",
+      "minY": 10,
+      "maxY": 60,
+      "rarity": 48,
+      "veinMinimum": 6,
+      "veinMultiplier": 20,
+      "miningLevel": "STONE",
+      "disableOre": false
+    },
+    {
+      "ore": "EndNickelOre",
+      "minY": 10,
+      "maxY": 60,
+      "rarity": 6,
+      "veinMinimum": 9,
+      "veinMultiplier": 9,
+      "miningLevel": "STONE",
+      "disableOre": false
+    },
+    {
+      "ore": "EndSilverOre",
+      "minY": 10,
+      "maxY": 60,
+      "rarity": 4,
+      "veinMinimum": 3,
+      "veinMultiplier": 6,
+      "miningLevel": "IRON",
       "disableOre": false
     }
   ]
