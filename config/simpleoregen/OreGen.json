@@ -8,7 +8,7 @@
         "rarity": 24,
         "veinMinimum": 6,
         "veinMultiplier": 31,
-        "disableOre": false
+        "disableOre": true
       },
       {
         "ore": "SurfaceDiamondOre",
@@ -17,7 +17,7 @@
         "rarity": 4,
         "veinMinimum": 3,
         "veinMultiplier": 6,
-        "disableOre": false
+        "disableOre": true
       },
       {
         "ore": "SurfaceEmeraldOre",
@@ -26,7 +26,7 @@
         "rarity": 8,
         "veinMinimum": 6,
         "veinMultiplier": 6,
-        "disableOre": false
+        "disableOre": true
       },
       {
         "ore": "SurfaceGoldOre",
@@ -35,7 +35,7 @@
         "rarity": 12,
         "veinMinimum": 9,
         "veinMultiplier": 9,
-        "disableOre": false
+        "disableOre": true
       },
       {
         "ore": "SurfaceIronOre",
@@ -44,7 +44,7 @@
         "rarity": 20,
         "veinMinimum": 5,
         "veinMultiplier": 19,
-        "disableOre": false
+        "disableOre": true
       },
       {
         "ore": "SurfaceLapisOre",
@@ -53,7 +53,7 @@
         "rarity": 16,
         "veinMinimum": 7,
         "veinMultiplier": 7,
-        "disableOre": false
+        "disableOre": true
       },
       {
         "ore": "SurfaceRedstoneOre",
@@ -62,7 +62,7 @@
         "rarity": 24,
         "veinMinimum": 3,
         "veinMultiplier": 7,
-        "disableOre": false
+        "disableOre": true
       }
     ],
     [
