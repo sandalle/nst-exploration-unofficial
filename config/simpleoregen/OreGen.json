@@ -56,6 +56,15 @@
         "disableOre": true
       },
       {
+        "ore": "SurfaceQuartzOre",
+        "minY": 0,
+        "maxY": 21,
+        "rarity": 8,
+        "veinMinimum": 4,
+        "veinMultiplier": 7,
+        "disableOre": true
+      },
+      {
         "ore": "SurfaceRedstoneOre",
         "minY": 0,
         "maxY": 17,
@@ -191,6 +200,15 @@
         "maxY": 60,
         "rarity": 8,
         "veinMinimum": 7,
+        "veinMultiplier": 7,
+        "disableOre": false
+      },
+      {
+        "ore": "EndQuartzOre",
+        "minY": 10,
+        "maxY": 60,
+        "rarity": 8,
+        "veinMinimum": 4,
         "veinMultiplier": 7,
         "disableOre": false
       },
