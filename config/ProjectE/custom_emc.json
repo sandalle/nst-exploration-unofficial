@@ -847,6 +847,10 @@
     {
       "item": "quark:basalt|0",
       "emc": 1
+    },
+    {
+      "item": "immersiveengineering:treated_wood|0",
+      "emc": 16
     }
   ]
 }
