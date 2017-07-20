@@ -851,6 +851,14 @@
     {
       "item": "immersiveengineering:treated_wood|0",
       "emc": 16
+    },
+    {
+      "item": "minecraft:lava_bucket|0",
+      "emc": 448
+    },
+    {
+      "item": "minecraft:milk_bucket|0",
+      "emc": 400
     }
   ]
 }
