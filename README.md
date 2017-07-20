@@ -92,7 +92,6 @@ This branch, 'exploration', is for Minecraft 1.11.
 1. [Open Modular Turrets (by Keridos and Poenjabiesous)](https://minecraft.curseforge.com/projects/openmodularturrets)
 1. [OpenComputers (by Kethtar)](https://minecraft.curseforge.com/mc-mods/223008)
 1. [Pam's HarvestCraft (by MatrexsVigil)](https://minecraft.curseforge.com/projects/pams-harvestcraft)
-1. [Pengu's Lost Thaumaturgy (by apengu)](https://minecraft.curseforge.com/projects/lost-thaumaturgy)
 1. [Persistent Bits (by oitsjustjose)](https://minecraft.curseforge.com/projects/persistent-bits)
 1. [PlusTiC (by Landmaster_phuong0429)](https://minecraft.curseforge.com/projects/plustic)
 1. [Progenitor (by Arkan)](https://minecraft.curseforge.com/projects/progenitor)
