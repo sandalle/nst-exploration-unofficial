@@ -21,28 +21,12 @@
 	The "useDefault" attribute will prevent loading of recipes if set to "false"
 <!-->
 <Recipes useDefault="true">
-	<Recipe timeRequired="300" power ="100">
-		<input>
-			<oreDict>ingotIron</oreDict>
-		</input>
-		<output>
-			<itemStack>libvulpes:productrod 2 1</itemStack>
-		</output>
-	</Recipe>
 	<Recipe timeRequired="300" power ="20">
 		<input>
 			<oreDict>ingotCopper</oreDict>
 		</input>
 		<output>
 			<itemStack>libvulpes:productrod 2 4</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotSteel</oreDict>
-		</input>
-		<output>
-			<itemStack>libvulpes:productrod 2 6</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
@@ -67,6 +51,30 @@
 		</input>
 		<output>
 			<itemStack>advancedrocketry:productrod 2</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
+			<oreDict>ingotAluminum</oreDict>
+		</input>
+		<output>
+			<itemStack>immersiveengineering:material 2 3</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
+			<oreDict>ingotIron</oreDict>
+		</input>
+		<output>
+			<itemStack>libvulpes:productrod 2 1</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
+			<oreDict>ingotSteel</oreDict>
+		</input>
+		<output>
+			<itemStack>libvulpes:productrod 2 6</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">

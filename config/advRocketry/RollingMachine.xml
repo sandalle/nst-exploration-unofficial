@@ -257,6 +257,14 @@
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
 		<input>
+			<oreDict>ingotUranium</oreDict>
+		</input>
+		<output>
+			<itemStack>immersiveengineering:metal 1 35</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
 			<oreDict>ingotPlatinum</oreDict>
 		</input>
 		<output>
@@ -293,6 +301,14 @@
 		</input>
 		<output>
 			<itemStack>thermalfoundation:material 1 355</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
+			<oreDict>ingotElectrumFlux</oreDict>
+		</input>
+		<output>
+			<itemStack>redstonearsenal:material 1 128</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
