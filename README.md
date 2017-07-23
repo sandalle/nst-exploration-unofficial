@@ -40,6 +40,7 @@ This branch, 'exploration', is for Minecraft 1.11.
 1. [Botania (by Vazkii)](https://minecraft.curseforge.com/mc-mods/225643)
 1. [Brandon's Core (by brandon3055)](https://minecraft.curseforge.com/projects/brandons-core)
 1. [Chisel (by tterrag1098)](https://minecraft.curseforge.com/projects/chisel)
+1. [Chisels & Bits (by AlgorithmX2)](https://minecraft.curseforge.com/projects/chisels-bits)
 1. [Chunk Animator (b Lumien)](https://minecraft.curseforge.com/projects/chunk-animator)
 1. [CodeChicken Lib 1.8+ (by covers1624)](https://mods.curse.com/mc-mods/minecraft/242818-codechicken-lib-1-8)
 1. [CoFH Core (by TeamCoFH)](https://minecraft.curseforge.com/projects/cofhcore)
