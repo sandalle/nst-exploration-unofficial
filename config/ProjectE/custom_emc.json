@@ -963,6 +963,10 @@
     {
       "item": "quark:stone_stairs|0",
       "emc": 1
+    },
+    {
+      "item": "embers:shard_ember|0",
+      "emc": 32
     }
   ]
 }
