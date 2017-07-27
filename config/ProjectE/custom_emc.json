@@ -903,6 +903,66 @@
     {
       "item": "nuclearcraft:ingot|3",
       "emc": 2048
+    },
+    {
+      "item": "thermalfoundation:material|772",
+      "emc": 192
+    },
+    {
+      "item": "embers:ingot_dawnstone|0",
+      "emc": 2176
+    },
+    {
+      "item": "natura:materials|6",
+      "emc": 128
+    },
+    {
+      "item": "embers:archaic_brick|0",
+      "emc": 16
+    },
+    {
+      "item": "embers:ancient_motive_core|0",
+      "emc": 1024
+    },
+    {
+      "item": "chisel:basalt2|7",
+      "emc": 16
+    },
+    {
+      "item": "natura:edibles|4",
+      "emc": 96
+    },
+    {
+      "item": "natura:edibles|2",
+      "emc": 96
+    },
+    {
+      "item": "natura:edibles|5",
+      "emc": 96
+    },
+    {
+      "item": "natura:edibles|3",
+      "emc": 96
+    },
+    {
+      "item": "natura:edibles|6",
+      "emc": 128
+    },
+    {
+      "item": "natura:edibles|9",
+      "emc": 128
+    },
+    {
+      "item": "minecraft:stone_stairs|0",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:stone_brick_stairs|0",
+      "emc": 1
+    },
+    {
+      "item": "quark:stone_stairs|0",
+      "emc": 1
     }
   ]
 }
