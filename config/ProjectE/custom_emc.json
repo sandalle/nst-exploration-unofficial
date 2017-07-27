@@ -859,6 +859,50 @@
     {
       "item": "minecraft:milk_bucket|0",
       "emc": 400
+    },
+    {
+      "item": "chisel:limestone2|7",
+      "emc": 16
+    },
+    {
+      "item": "chisel:marble2|7",
+      "emc": 16
+    },
+    {
+      "item": "libvulpes:productingot|7",
+      "emc": 4096
+    },
+    {
+      "item": "nuclearcraft:ingot|6",
+      "emc": 1024
+    },
+    {
+      "item": "nuclearcraft:ingot|5",
+      "emc": 1024
+    },
+    {
+      "item": "nuclearcraft:ingot|7",
+      "emc": 320
+    },
+    {
+      "item": "thermalfoundation:material|160",
+      "emc": 320
+    },
+    {
+      "item": "thermalfoundation:material|864",
+      "emc": 16
+    },
+    {
+      "item": "thermalfoundation:material|865",
+      "emc": 64
+    },
+    {
+      "item": "thermalfoundation:material|800",
+      "emc": 8
+    },
+    {
+      "item": "nuclearcraft:ingot|3",
+      "emc": 2048
     }
   ]
 }
