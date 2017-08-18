@@ -967,6 +967,70 @@
     {
       "item": "embers:shard_ember|0",
       "emc": 32
+    },
+    {
+      "item": "draconicevolution:draconium_dust|0",
+      "emc": 2048
+    },
+    {
+      "item": "simpleoregen:quartz|0",
+      "emc": 256
+    },
+    {
+      "item": "actuallyadditions:item_misc|5",
+      "emc": 256
+    },
+    {
+      "item": "bigreactors:dustmetals|2",
+      "emc": 32
+    },
+    {
+      "item": "nuclearcraft:ingot|8",
+      "emc": 32
+    },
+    {
+      "item": "immersiveengineering:material|19",
+      "emc": 32
+    },
+    {
+      "item": "immersiveengineering:material|18",
+      "emc": 32
+    },
+    {
+      "item": "ic2:ingot|5",
+      "emc": 320
+    },
+    {
+      "item": "botania:manaresource|0",
+      "emc": 320
+    },
+    {
+      "item": "immersiveengineering:metal|8",
+      "emc": 320
+    },
+    {
+      "item": "bigreactors:ingotmetals|5",
+      "emc": 320
+    },
+    {
+      "item": "botania:manaresource|7",
+      "emc": 960
+    },
+    {
+      "item": "botania:manaresource|2",
+      "emc": 12288
+    },
+    {
+      "item": "botania:manaresource|1",
+      "emc": 1536
+    },
+    {
+      "item": "botania:manaresource|4",
+      "emc": 14144
+    },
+    {
+      "item": "botania:manaresource|16",
+      "emc": 18
     }
   ]
 }
