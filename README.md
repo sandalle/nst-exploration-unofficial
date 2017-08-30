@@ -89,6 +89,8 @@ This branch, 'exploration', is for Minecraft 1.11.
 1. [NetherPortalFix (by BlayTheNinth)](https://minecraft.curseforge.com/mc-mods/241160)
 1. [Nuclear Craft (by tomdodd4598)](https://minecraft.curseforge.com/projects/nuclearcraft-mod)
 1. [OMLib (by Keridos and Poenjabiesous)](https://minecraft.curseforge.com/projects/omlib)
+1. [Open Blocks (by OpenMods)](https://minecraft.curseforge.com/projects/openblocks)
+1. [Open Mods Lib (by OpenMods)](https://minecraft.curseforge.com/projects/openmodslib)
 1. [Open Modular Passive Defense (by Keridos and Poenjabiesous)](https://minecraft.curseforge.com/projects/open-modular-passive-defense)
 1. [Open Modular Turrets (by Keridos and Poenjabiesous)](https://minecraft.curseforge.com/projects/openmodularturrets)
 1. [OpenComputers (by Kethtar)](https://minecraft.curseforge.com/mc-mods/223008)
