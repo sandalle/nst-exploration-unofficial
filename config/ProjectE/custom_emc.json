@@ -1031,6 +1031,30 @@
     {
       "item": "botania:manaresource|16",
       "emc": 18
+    },
+    {
+      "item": "harvestcraft:rawtofeegitem|0",
+      "emc": 112
+    },
+    {
+      "item": "harvestcraft:freshmilkitem|0",
+      "emc": 100
+    },
+    {
+      "item": "harvestcraft:soymilkitem|0",
+      "emc": 96
+    },
+    {
+      "item": "harvestcraft:coconutmilkitem|0",
+      "emc": 192
+    },
+    {
+      "item": "harvestcraft:ediblerootitem|0",
+      "emc": 96
+    },
+    {
+      "item": "minecraft:cake|0",
+      "emc": 1392
     }
   ]
 }
