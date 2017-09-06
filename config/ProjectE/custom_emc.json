@@ -1059,6 +1059,10 @@
     {
       "item": "chisel:lavastone|0",
       "emc": 456
+    },
+    {
+      "item": "cfm:item_soap_water|0",
+      "emc": 144
     }
   ]
 }
