@@ -1055,6 +1055,10 @@
     {
       "item": "minecraft:cake|0",
       "emc": 1392
+    },
+    {
+      "item": "chisel:lavastone|0",
+      "emc": 456
     }
   ]
 }
