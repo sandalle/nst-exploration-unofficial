@@ -1059,6 +1059,34 @@
     {
       "item": "cfm:item_soap_water|0",
       "emc": 144
+    },
+    {
+      "item": "nuclearcraft:alloy|5",
+      "emc": 320
+    },
+    {
+      "item": "galacticraftcore:basic_item|6",
+      "emc": 256
+    },
+    {
+      "item": "galacticraftcore:basic_item|7",
+      "emc": 512
+    },
+    {
+      "item": "galacticraftcore:basic_item|8",
+      "emc": 256
+    },
+    {
+      "item": "galacticraftcore:basic_item|9",
+      "emc": 640
+    },
+    {
+      "item": "galacticraftcore:basic_item|10",
+      "emc": 320
+    },
+    {
+      "item": "galacticraftcore:basic_item|11",
+      "emc": 512
     }
   ]
 }
