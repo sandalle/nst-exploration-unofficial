@@ -71,6 +71,7 @@ This branch, 'exploration', is for Minecraft 1.11.
 1. [Just Enough HarvestCraft (by mrAppleXZ)](https://minecraft.curseforge.com/projects/just-enough-harvestcraft)
 1. [Just Enough Items (JEI) (by mezz)](https://minecraft.curseforge.com/mc-mods/238222)
 1. [Just Enough Resources (JER) (by Way2muchnoise)](https://minecraft.curseforge.com/mc-mods/240630)
+1. [Just Jetpacks (by Kloonder)](https://minecraft.curseforge.com/projects/just-jetpacks)
 1. [LibVulpes (by zmaster587)](https://minecraft.curseforge.com/projects/libvulpes)
 1. [LLibrary (by iLexiconn)](https://minecraft.curseforge.com/mc-mods/243298)
 1. [Login Shield (by Glasspelican)](https://minecraft.curseforge.com/mc-mods/233255)
