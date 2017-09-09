@@ -60,6 +60,7 @@ This branch, 'exploration', is for Minecraft 1.11.
 1. [Foam Fix (by asie)](https://asie.pl/Projects/Minecraft/Mods/FoamFix) (permission to include in modpacks is at https://github.com/asiekierka/FoamFix/issues/13 )
 1. [Funky Locomotion (by RWTema)](https://minecraft.curseforge.com/projects/funky-locomotion)
 1. [GalactiCraft (by Micdoodle8)](https://wiki.micdoodle8.com/wiki/Galacticraft) (permission to include in modpacks is at https://wiki.micdoodle8.com/wiki/Modpack_Permission )
+1. [GalactiCraft Add-on - More Planets (by SteveKunGz)](https://minecraft.curseforge.com/projects/galacticraft-add-on-more-planets)
 1. [GraveStone Mod (by EuhDawson)](https://minecraft.curseforge.com/mc-mods/238551)
 1. [Guide-API (by TehNut)](https://minecraft.curseforge.com/mc-mods/228832)
 1. [Hammer Core (by MrDimkas_Studio)](https://minecraft.curseforge.com/projects/hammer-core)
