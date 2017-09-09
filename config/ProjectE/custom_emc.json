@@ -13,10 +13,6 @@
       "emc": 16
     },
     {
-      "item": "immersiveengineering:treatedWood|0",
-      "emc": 16
-    },
-    {
       "item": "immersiveengineering:material|6",
       "emc": 256
     },
@@ -1087,6 +1083,22 @@
     {
       "item": "galacticraftcore:basic_item|11",
       "emc": 512
+    },
+    {
+      "item": "galacticraftcore:fluid_pipe|0",
+      "emc": 16
+    },
+    {
+      "item": "galacticraftcore:oxygen_tank_light_full|0",
+      "emc": 1228
+    },
+    {
+      "item": "galacticraftcore:oxygen_tank_med_full|0",
+      "emc": 2944
+    },
+    {
+      "item": "galacticraftcore:oxygen_tank_heavy_full|0",
+      "emc": 4800
     }
   ]
 }
