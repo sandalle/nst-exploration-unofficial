@@ -1089,18 +1089,6 @@
       "emc": 16
     },
     {
-      "item": "galacticraftcore:oxygen_tank_light_full|0",
-      "emc": 1228
-    },
-    {
-      "item": "galacticraftcore:oxygen_tank_med_full|0",
-      "emc": 2944
-    },
-    {
-      "item": "galacticraftcore:oxygen_tank_heavy_full|0",
-      "emc": 4800
-    },
-    {
       "item": "mysticalagriculture:soulstone|1",
       "emc": 24
     },
