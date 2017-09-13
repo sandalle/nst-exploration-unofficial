@@ -64,6 +64,7 @@ This branch, 'exploration', is for Minecraft 1.11.
 1. [GraveStone Mod (by EuhDawson)](https://minecraft.curseforge.com/mc-mods/238551)
 1. [Guide-API (by TehNut)](https://minecraft.curseforge.com/mc-mods/228832)
 1. [Hammer Core (by MrDimkas_Studio)](https://minecraft.curseforge.com/projects/hammer-core)
+1. [Help Fixer (by matthewprenger)](https://minecraft.curseforge.com/projects/helpfixer)
 1. [Immersive Engineering (by BluSunrize)](https://minecraft.curseforge.com/projects/immersive-engineering)
 1. [Industrial Craft (by Player)](https://minecraft.curseforge.com/projects/industrial-craft)
 1. [Iron Chests (by progwml6)](https://minecraft.curseforge.com/mc-mods/228756)
