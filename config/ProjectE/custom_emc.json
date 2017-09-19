@@ -1095,6 +1095,70 @@
     {
       "item": "immersiveengineering:material|7",
       "emc": 16
+    },
+    {
+      "item": "nuclearcraft:dust|8",
+      "emc": 32
+    },
+    {
+      "item": "natura:nether_logs2|15",
+      "emc": 32
+    },
+    {
+      "item": "natura:nether_heat_sand|0",
+      "emc": 24
+    },
+    {
+      "item": "natura:nether_tainted_soil|0",
+      "emc": 24
+    },
+    {
+      "item": "nuclearcraft:alloy|6",
+      "emc": 672
+    },
+    {
+      "item": "nuclearcraft:alloy|1",
+      "emc": 1184
+    },
+    {
+      "item": "actuallyadditions:item_dust|5",
+      "emc": 256
+    },
+    {
+      "item": "actuallyadditions:item_dust|7",
+      "emc": 256
+    },
+    {
+      "item": "nuclearcraft:gem_dust|2",
+      "emc": 256
+    },
+    {
+      "item": "nuclearcraft:alloy|3",
+      "emc": 789
+    },
+    {
+      "item": "nuclearcraft:gem|0",
+      "emc": 16384
+    },
+    {
+      "item": "natura:nether_sapling2|0",
+      "emc": 32
+    },
+    {
+      "item": "nuclearcraft:gem_dust|1",
+      "emc": 16384
+    },
+    {
+      "item": "ic2:dust|12",
+      "emc": 64
+    },
+    {
+      "item": "thermalfoundation:material|770",
+      "emc": 16
+    },
+    {
+      "item": "actuallyadditions:item_food|16",
+      "emc": 32
     }
   ]
 }
