@@ -1159,6 +1159,22 @@
     {
       "item": "actuallyadditions:item_food|16",
       "emc": 32
+    },
+    {
+      "item": "actuallyadditions:item_dust|2",
+      "emc": 8192
+    },
+    {
+      "item": "nuclearcraft:gem_dust|0",
+      "emc": 8192
+    },
+    {
+      "item": "ic2:dust|5",
+      "emc": 8192
+    },
+    {
+      "item": "nuclearcraft:alloy|2",
+      "emc": 4128
     }
   ]
 }
