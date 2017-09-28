@@ -1175,6 +1175,10 @@
     {
       "item": "nuclearcraft:alloy|2",
       "emc": 4128
+    },
+    {
+      "item": "chiselsandbits:bit_bag|0",
+      "emc": 513
     }
   ]
 }
