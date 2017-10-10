@@ -4,11 +4,8 @@
 [[ -f config.sh ]] && . config.sh
 SERVICE="${FORGE:-server.jar}"
 OPTIONS='nogui'
-USERNAME='minecraft'
-WORLD='world'
 MCPATH="${SERVER_DIR}"
 BACKUPPATH='${MCPATH}/backup/mc1.11.backup'
-HISTORY=1024
 INVOCATION="java -server  \
 	-Xms${START_MEMORY}M -Xmx${MAX_MEMORY}M  \
 	-XX:+UseLargePages  \
