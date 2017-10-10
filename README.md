@@ -11,7 +11,7 @@ This branch, 'exploration', is for Minecraft 1.11.
 
 # Forge
 
-[1.11.2-13.20.1.2454](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.11.2.html)
+[1.11.2-13.20.1.2476](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.11.2.html)
 
 # Sponge (Bukkit-like API)
 
