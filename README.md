@@ -3,6 +3,14 @@ NST Exploration (Minecraft 1.11) Unofficial
 
 This branch, 'exploration', is for Minecraft 1.11.
 
+Never Stop Toasting Minecraft 1.11.2 modpack by Lolmer. Just posting what I use for my family to play at home.
+
+I may add/remove mods throughout the lifespan of this pack as my family's needs and wants change.
+
+# Other modpacks by Lolmer
+[NST Frostburn](https://minecraft.curseforge.com/projects/nst-unofficial-frostburn) - Minecraft 1.10.2
+[NST World of Color](https://minecraft.curseforge.com/projects/nst-world-of-color) - Minecraft 1.12.2
+
 # Packs using this config
 
 [NST Unofficial 1.11 - Exploration edition on CurseForge](https://minecraft.curseforge.com/projects/nst-unofficial-exploration)
